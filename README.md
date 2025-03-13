@@ -1,1 +1,5 @@
-# aulaPy1303
+# aulapy1303
+
+## Alunos
+`Maria Eduarda Raspante`
+`Guilherme Macario`
