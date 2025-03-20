@@ -1,4 +1,4 @@
-# aulapy1303
+# Aulapy13/03 - git Maria
 
 ## Alunos
 `Maria Eduarda Raspante`
@@ -8,6 +8,6 @@
 
 # macario teste
 
-# aulapy2003
+# Aulapy 20/03 - git Macario
 
-# estudo dirigido sobre o filme - Entrega:segunda - 24/03
+# Estudo dirigido sobre o filme - Entrega : segunda - 24/03
